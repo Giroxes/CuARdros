@@ -1,0 +1,28 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 12-nov-2015, 22:03:14
+    Author     : Sergio
+*/
+
+#cuadros {
+    width: 100%;
+    position: absolute;
+    z-index: 2
+}
+/*canvas {
+    position: absolute;
+    z-index: 1
+}*/
+#cuadros img{
+    max-width: 160px;
+    max-height: 80px;
+    margin-left: 10px;
+    margin-right: 10px
+}
+.slick-side {
+    width: 160px;
+}
